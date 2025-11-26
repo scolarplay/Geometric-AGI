@@ -250,7 +250,7 @@ python examples/cross_domain_integrator.py
 4. Language as Life: Every language is a unique geometry of thought
 5. Consciousness as Compass: Let understanding guide engineering
 
-## Stay Connected
+## Stay Connected   https://groups.google.com/u/1/a/smeddum.blog/g/agi-repo
 
 email scolarplay@pm.me
 
