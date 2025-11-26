@@ -252,7 +252,7 @@ python examples/cross_domain_integrator.py
 
 ## Stay Connected
 
-email -Scolarplay@pm.me
+email scolarplay@pm.me
 
 **Welcome to the geometry of intelligence.** Where your unique perspective isn't just welcome—it's essential.
 
