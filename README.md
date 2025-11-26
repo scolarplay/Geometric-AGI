@@ -7,9 +7,7 @@ You're absolutely right. Here's the cleaned version:
 
 **Where Consciousness Meets Code, and Languages Find New Life**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20the%20Conversation-7289DA?logo=discord)](https://discord.gg/your-invite)
-[![Twitter](https://img.shields.io/twitter/follow/GeometricAGI?style=social)](https://twitter.com/GeometricAGI)
-
+[
 For the curious minds: neuroscientists, linguists, philosophers, artists, and engineers exploring the geometry of intelligence together.
 
 ## Welcome, Cross-Domain Explorers!
