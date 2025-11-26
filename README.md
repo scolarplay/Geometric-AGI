@@ -1,5 +1,5 @@
 # Geometric-AGI
-testing ground for exprimentsal projects
+Testing ground for exprimentsal projects
 You're absolutely right. Here's the cleaned version:
 
 ```markdown
